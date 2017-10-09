@@ -112,7 +112,7 @@ bio.display = function() {
 	
 };
 
-work.display() = function(){
+work.display = function(){
 	for (job in work.jobs){
 		$("#workExperience").append(HTMLworkStart);
 
